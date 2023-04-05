@@ -102,7 +102,6 @@ def stat_func(stat):
 stat_func(climate)
 
 
-
 def methane_bar(barplt):
     """
     This function takes a pandas DataFrame  containing data on worldbank climate
