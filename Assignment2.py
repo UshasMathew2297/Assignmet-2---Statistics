@@ -12,7 +12,6 @@ import numpy as np
 from scipy.stats import skew
 from scipy.stats import kurtosis
 
-
 def datafile(file):
     """
     This 'datafile' function takes name of the file and reads it from local 
